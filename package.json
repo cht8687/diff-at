@@ -1,6 +1,6 @@
 {
   "name": "diff-at",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Return the index of first difference occurence between given string, number or array",
   "main": "index.js",
   "scripts": {
