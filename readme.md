@@ -1,4 +1,4 @@
-# diff-at [![Build Status](https://travis-ci.org/cht8687/diffAt.svg?branch=master)](https://travis-ci.org/cht8687/diff-at)
+# diff-at [![Build Status](https://travis-ci.org/cht8687/diff-at.svg?branch=master)](https://travis-ci.org/cht8687/diff-at)
 
 > Return the index of first difference occurence between given string, number or array
 
