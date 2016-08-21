@@ -1,0 +1,20 @@
+{
+  "name": "diff-at",
+  "version": "1.0.0",
+  "description": "Return the index of first difference occurence between given string, number or array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "string",
+    "diff",
+    "string-compare",
+    "compare"
+  ],
+  "author": "Haotian Chang <cht8687@gmail.com> (https://haotianchang.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
