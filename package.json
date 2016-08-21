@@ -1,7 +1,11 @@
 {
   "name": "diff-at",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Return the index of first difference occurence between given string, number or array",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cht8687/diff-at.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node test"
