@@ -1,6 +1,6 @@
 {
   "name": "diff-at",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Return the index of first difference occurence between given string, number or array",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "string-compare",
     "compare"
   ],
-  "author": "Haotian Chang <cht8687@gmail.com> (https://github.com/cht8687)",
+  "author": "Robert Chang <cht8687@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.6.0"
